@@ -21,9 +21,9 @@
 		"Monday": {"open": 16, "close": 20},
 		"Tuesday": {"open": 16, "close": 20},
 		"Wednesday": {"open": 16, "close": 20},
-		"Thursday": {"open": 16, "close": 00},
-		"Friday": {"open": 12, "close": 00},
-		"Saturday": {"open": 12, "close": 00},
+		"Thursday": {"open": 16, "close": 0},
+		"Friday": {"open": 12, "close": 0},
+		"Saturday": {"open": 12, "close": 0},
 		"Sunday": {"open": 16, "close": 20}
 	},
 	"Beerworks": {
