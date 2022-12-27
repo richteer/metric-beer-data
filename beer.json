@@ -1,65 +1,88 @@
 {
-	"Celis": {
-		"Monday": {"open": 17, "close": 22},
-		"Tuesday": {"open": 15, "close": 22},
-		"Wednesday": {"open": 15, "close": 22},
-		"Thursday": {"open": 15, "close": 22},
-		"Friday": {"open": 12, "close": 22},
-		"Saturday": {"open": 12, "close": 22},
-		"Sunday": {"open": 12, "close": 22}
-	},
-	"Circle": {
-		"Monday": {"open": -1, "close": -1},
-		"Tuesday": {"open": -1, "close": -1},
-		"Wednesday": {"open": -1, "close": -1},
-		"Thursday": {"open": 17, "close": 21},
-		"Friday": {"open": 17, "close": 22},
-		"Saturday": {"open": 12, "close": 22},
-		"Sunday": {"open": 12, "close": 18}
-	},
-	"4th Tap": {
-		"Monday": {"open": 16, "close": 20},
-		"Tuesday": {"open": 16, "close": 20},
-		"Wednesday": {"open": 16, "close": 20},
-		"Thursday": {"open": 16, "close": 0},
-		"Friday": {"open": 12, "close": 0},
-		"Saturday": {"open": 12, "close": 0},
-		"Sunday": {"open": 16, "close": 20}
-	},
-	"Beerworks": {
-		"Monday": {"open": 11, "close": 22},
-		"Tuesday": {"open": 11, "close": 22},
-		"Wednesday": {"open": 11, "close": 22},
-		"Thursday": {"open": 11, "close": 22},
-		"Friday": {"open": 11, "close": 22},
-		"Saturday": {"open": 12, "close": 20},
-		"Sunday": {"open": 13, "close": 19}
-	},
-	"Adelbert's": {
-		"Monday": {"open": -1, "close": -1},
-		"Tuesday": {"open": -1, "close": -1},
-		"Wednesday": {"open": 17, "close": 22},
-		"Thursday": {"open": 17, "close": 22},
-		"Friday": {"open": 17, "close": 22},
-		"Saturday": {"open": 13, "close": 22},
-		"Sunday": {"open": 13, "close": 19}
-	},
-	"Oskar Blues": {
-		"Monday": {"open": 12, "close": 20},
-		"Tuesday": {"open": 12, "close": 22},
-		"Wednesday": {"open": 12, "close": 22},
-		"Thursday": {"open": 12, "close": 22},
-		"Friday": {"open": 12, "close": 22},
-		"Saturday": {"open": 12, "close": 22},
-		"Sunday": {"open": 12, "close": 20}
-	},
-	"Fairweather Cider 🍎": {
-		"Monday": {"open": -1, "close": -1},
-		"Tuesday": {"open": -1, "close": -1},
-		"Wednesday": {"open": 16, "close": 21},
-		"Thursday": {"open": 16, "close": 21},
-		"Friday": {"open": 12, "close": 23},
-		"Saturday": {"open": 12, "close": 23},
-		"Sunday": {"open": 13, "close": 19}
-	}
+	"Breweries": [
+		{
+			"name": "Celis",
+			"hours": {
+				"Monday": {"open": 17, "close": 22},
+				"Tuesday": {"open": 15, "close": 22},
+				"Wednesday": {"open": 15, "close": 22},
+				"Thursday": {"open": 15, "close": 22},
+				"Friday": {"open": 12, "close": 22},
+				"Saturday": {"open": 12, "close": 22},
+				"Sunday": {"open": 12, "close": 22}
+			}
+		},
+		{
+			"name": "Circle",
+			"hours": {
+				"Monday": {"open": -1, "close": -1},
+				"Tuesday": {"open": -1, "close": -1},
+				"Wednesday": {"open": -1, "close": -1},
+				"Thursday": {"open": 17, "close": 21},
+				"Friday": {"open": 17, "close": 22},
+				"Saturday": {"open": 12, "close": 22},
+				"Sunday": {"open": 12, "close": 18}
+			}
+		},
+		{
+			"name": "4th Tap",
+			"hours": {
+				"Monday": {"open": 16, "close": 20},
+				"Tuesday": {"open": 16, "close": 20},
+				"Wednesday": {"open": 16, "close": 20},
+				"Thursday": {"open": 16, "close": 0},
+				"Friday": {"open": 12, "close": 0},
+				"Saturday": {"open": 12, "close": 0},
+				"Sunday": {"open": 16, "close": 20}
+			}
+		},
+		{
+			"name": "Beerworks",
+			"hours": {
+				"Monday": {"open": 11, "close": 22},
+				"Tuesday": {"open": 11, "close": 22},
+				"Wednesday": {"open": 11, "close": 22},
+				"Thursday": {"open": 11, "close": 22},
+				"Friday": {"open": 11, "close": 22},
+				"Saturday": {"open": 12, "close": 20},
+				"Sunday": {"open": 13, "close": 19}
+			}
+		},
+		{
+			"name": "Adelbert's",
+			"hours": {
+				"Monday": {"open": -1, "close": -1},
+				"Tuesday": {"open": -1, "close": -1},
+				"Wednesday": {"open": 17, "close": 22},
+				"Thursday": {"open": 17, "close": 22},
+				"Friday": {"open": 17, "close": 22},
+				"Saturday": {"open": 13, "close": 22},
+				"Sunday": {"open": 13, "close": 19}
+			}
+		},
+		{
+			"name": "Oskar Blues",
+			"hours": {
+				"Monday": {"open": 12, "close": 20},
+				"Tuesday": {"open": 12, "close": 22},
+				"Wednesday": {"open": 12, "close": 22},
+				"Thursday": {"open": 12, "close": 22},
+				"Friday": {"open": 12, "close": 22},
+				"Saturday": {"open": 12, "close": 22},
+				"Sunday": {"open": 12, "close": 20}
+			}
+		},
+		{
+			"name": "Fairweather Cider 🍎",
+			"hours": {
+					"Monday": {"open": -1, "close": -1},
+					"Tuesday": {"open": -1, "close": -1},
+					"Wednesday": {"open": 16, "close": 21},
+					"Thursday": {"open": 16, "close": 21},
+					"Friday": {"open": 12, "close": 23},
+					"Saturday": {"open": 12, "close": 23},
+					"Sunday": {"open": 13, "close": 19}
+			}
+		}
+	]
 }
