@@ -96,5 +96,6 @@
 				"Sunday": {"open": 12, "close": 22}
 			}
 		}
-	]
+	],
+	"Crawl": ["Beerworks", "Adelbert's", "Celis", "Oskar Blues", "Fairweather Cider 🍎", "4th Tap", "Circle", "Hopsquad"]
 }
