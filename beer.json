@@ -27,13 +27,13 @@
 		{
 			"name": "4th Tap",
 			"hours": {
-				"Monday": {"open": 16, "close": 20},
-				"Tuesday": {"open": 16, "close": 20},
-				"Wednesday": {"open": 16, "close": 20},
-				"Thursday": {"open": 16, "close": 0},
-				"Friday": {"open": 12, "close": 0},
-				"Saturday": {"open": 12, "close": 0},
-				"Sunday": {"open": 16, "close": 20}
+				"Monday": {"open": -1, "close": -1},
+				"Tuesday": {"open": -1, "close": -1},
+				"Wednesday": {"open": -1, "close": -1},
+				"Thursday": {"open": -1, "close": -1},
+				"Friday": {"open": -1, "close": -1},
+				"Saturday": {"open": -1, "close": -1},
+				"Sunday": {"open": -1, "close": -1}
 			}
 		},
 		{
@@ -53,11 +53,11 @@
 			"hours": {
 				"Monday": {"open": -1, "close": -1},
 				"Tuesday": {"open": -1, "close": -1},
-				"Wednesday": {"open": 17, "close": 22},
-				"Thursday": {"open": 17, "close": 22},
-				"Friday": {"open": 17, "close": 22},
-				"Saturday": {"open": 13, "close": 22},
-				"Sunday": {"open": 13, "close": 19}
+				"Wednesday": {"open": -1, "close": -1},
+				"Thursday": {"open": -1, "close": -1},
+				"Friday": {"open": -1, "close": -1},
+				"Saturday": {"open": -1, "close": -1},
+				"Sunday": {"open": -1, "close": -1}
 			}
 		},
 		{
