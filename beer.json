@@ -83,6 +83,18 @@
 				"Saturday": {"open": 12, "close": 23},
 				"Sunday": {"open": 12, "close": 19}
 			}
+		},
+		{
+			"name": "Hopsquad",
+			"hours": {
+				"Monday": {"open": 12, "close": 22},
+				"Tuesday": {"open": 12, "close": 22},
+				"Wednesday": {"open": 12, "close": 23},
+				"Thursday": {"open": 12, "close": 23},
+				"Friday": {"open": 12, "close": 23},
+				"Saturday": {"open": 12, "close": 23},
+				"Sunday": {"open": 12, "close": 22}
+			}
 		}
 	]
 }
