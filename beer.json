@@ -63,13 +63,13 @@
 		{
 			"name": "Oskar Blues",
 			"hours": {
-				"Monday": {"open": 15, "close": 21},
-				"Tuesday": {"open": 15, "close": 21},
-				"Wednesday": {"open": 15, "close": 21},
-				"Thursday": {"open": 15, "close": 21},
-				"Friday": {"open": 12, "close": 21},
-				"Saturday": {"open": 12, "close": 21},
-				"Sunday": {"open": 12, "close": 19}
+				"Monday": {"open": -1, "close": -1},
+				"Tuesday": {"open": -1, "close": -1},
+				"Wednesday": {"open": -1, "close": -1},
+				"Thursday": {"open": -1, "close": -1},
+				"Friday": {"open": -1, "close": -1},
+				"Saturday": {"open": -1, "close": -1},
+				"Sunday": {"open": -1, "close": -1}
 			}
 		},
 		{
